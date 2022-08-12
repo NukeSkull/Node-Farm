@@ -1,6 +1,6 @@
 # Node-Farm by NukeSkull
 
-This is my first project created to learn node.js
+This is my first project created in order to learn node.js
 
 ## Set Up
 - Run on terminal `npm install`
