@@ -1,4 +1,4 @@
-# Node-Farm
+# Node-Farm by NukeSkull
 
 This is my first project created to learn node.js
 
